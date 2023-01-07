@@ -1,0 +1,22 @@
+INSTRUCTIONS
+1. Both players will start their token on the first tile (marked as GO).
+
+2. Taking turns, the players will throw two dice and move their tokens around the edge of the board by the sum of the amount shown on the dice.
+
+3. Depending on the space your token lands on you will have a chance to do the following: 
+
+ - PAY RENT/TAXES (Landing on someone else's property will have you pay the allotted amount)
+
+ - BUY PROPERTY (If not already owned by another played, you are given the option to buy the space you are on)
+
+ - DRAW A CARD (You will have the option of either drawing a community or chance card. You must follow the instructions written on the card)
+
+ - GO TO JAIL (Land on this space will have you thrown into jail) When in jail, you will be given the choice to roll the dice. If you roll doubles, then you can escape!
+
+ - GO (When passing the 'GO' tile, collect $200!)
+
+ - FREE PARKING OR JUST VISITING (You have to do nothing on these spots)
+
+ 4. If a player runs out of money to pay the bank or other players, this player is considered to be 'bankrupt'. Bankrupt players are removed from the game.
+
+ 5. Last person to not go bankrupt will be the winner of the game!!!

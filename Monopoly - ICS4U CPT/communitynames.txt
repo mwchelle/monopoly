@@ -1,0 +1,9 @@
+Doctor
+Stocks
+Holiday
+Refund
+Insurance
+Birthday
+Hospital
+School
+Repairs
